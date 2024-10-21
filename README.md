@@ -11,7 +11,8 @@ Esu duomenų analitikos specialistas, kuris mėgsta dirbti su duomenimis ir ieš
 
 ## Projektai
 - **[Mano_demo projektas]**: (https://github.com/DaivaVaic/repository_demo)
-- **[Projekto pavadinimas 2]**: [Nuoroda į projektą]
+- **<a href="https://github.com/DaivaVaic/repository_demo" target="_blank">Mano_demo projektas</a>
+
 
 ## Kodėl verta dirbti su manimi?
 - **Analitiniai įgūdžiai**: Galiu analizuoti didelius duomenų kiekius ir išgauti vertingas įžvalgas.
