@@ -10,7 +10,7 @@ Esu duomenų analitikos specialistas, kuris mėgsta dirbti su duomenimis ir ieš
 - **Python**: Analizės automatizavimas
 
 ## Projektai
-- **[Projekto pavadinimas 1]**: [Nuoroda į projektą]
+- **[Mano_demo projektas]**: (https://github.com/DaivaVaic/repository_demo)
 - **[Projekto pavadinimas 2]**: [Nuoroda į projektą]
 
 ## Kodėl verta dirbti su manimi?
