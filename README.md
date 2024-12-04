@@ -1,5 +1,7 @@
 # Sveiki! Aš esu Daiva 📊
 
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png)](https://www.linkedin.com/in/daiva-vai%C4%8Diulionien%C4%97-b76ab6296))
+
 ## Apie mane
 Esu naujai apmokyta duomenų analitikos specialistė, kuri neseniai baigė intensyvius Duomenų analitikos kursus. 
 Esu entuziastinga ir pasiruošusi pradėti karjerą duomenų analitikos srityje. 
