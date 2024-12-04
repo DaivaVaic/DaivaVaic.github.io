@@ -2,7 +2,8 @@
 
 ## Apie mane
 Esu naujai apmokyta duomenų analitikos specialistė, kuri neseniai baigė intensyvius Duomenų analitikos kursus. 
-Esu entuziastinga ir pasiruošusi pradėti karjerą duomenų analitikos srityje, trokštu pritaikyti įgytas žinias ir tobulėti šioje srityje.
+Esu entuziastinga ir pasiruošusi pradėti karjerą duomenų analitikos srityje. 
+Trokštu pritaikyti įgytas žinias ir tobulėti šioje srityje.
 
 ## Įrankiai, kuriuos naudoju
 - **MySQL**: Duomenų bazės valdymas
