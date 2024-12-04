@@ -18,7 +18,7 @@ Trokštu pritaikyti įgytas žinias ir tobulėti šioje srityje.
 
 ## Susisiekime!
 - El. paštas: [d.jankauskaite88@gmail.com]
-- LinkedIn: [[jūsų LinkedIn profilis](https://www.linkedin.com/in/daiva-vai%C4%8Diulionien%C4%97-b76ab6296)]
+- LinkedIn: [(https://www.linkedin.com/in/daiva-vai%C4%8Diulionien%C4%97-b76ab6296)]
 
 Ačiū, kad aplankėte mano portfelį! 👋
 
