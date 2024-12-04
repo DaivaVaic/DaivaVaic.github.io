@@ -1,26 +1,21 @@
 # Sveiki! Aš esu Daiva 📊
 
 ## Apie mane
-Esu duomenų analitikos specialistas, kuris mėgsta dirbti su duomenimis ir ieškoti naujų įžvalgų. Man patinka naudoti moderniausias technologijas ir kurti vizualizacijas, kurios padeda priimti sprendimus.
+Esu naujai apmokyta duomenų analitikos specialistė, kuri neseniai baigė intensyvius Duomenų analitikos kursus. 
+Esu entuziastinga ir pasiruošusi pradėti karjerą duomenų analitikos srityje, trokštu pritaikyti įgytas žinias ir tobulėti šioje srityje.
 
 ## Įrankiai, kuriuos naudoju
 - **MySQL**: Duomenų bazės valdymas
-- **SQLite**: Lengvas duomenų valdymas
 - **Power BI**: Duomenų vizualizacija
 - **Python**: Analizės automatizavimas
 
-## Projektai
-- **[Mano_demo projektas]**: (https://github.com/DaivaVaic/repository_demo)
-- **<a href="https://github.com/DaivaVaic/repository_demo" target="_blank">Mano_demo projektas</a>
-
-
 ## Kodėl verta dirbti su manimi?
-- **Analitiniai įgūdžiai**: Galiu analizuoti didelius duomenų kiekius ir išgauti vertingas įžvalgas.
+- **Analitiniai įgūdžiai**: Įgijau pagrindines duomenų analizės ir vizualizacijos žinias.
 - **Komandinė dvasia**: Dirbti komandoje man yra malonu ir aš vertinu idėjų mainus.
 
 ## Susisiekime!
-- El. paštas: [jūsų el. paštas]
-- LinkedIn: [jūsų LinkedIn profilis]
+- El. paštas: [d.jankauskaite88@gmail.com]
+- LinkedIn: [[jūsų LinkedIn profilis](https://www.linkedin.com/in/daiva-vai%C4%8Diulionien%C4%97-b76ab6296)]
 
 Ačiū, kad aplankėte mano portfelį! 👋
 
